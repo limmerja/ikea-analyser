@@ -1,0 +1,1 @@
+# Log static resources and downloaded data
